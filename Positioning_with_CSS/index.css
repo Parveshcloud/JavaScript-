@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+ }
+ header{
+    padding: 1%;
+    background-color: blue;
+    color: white;
+    }
+ .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ }
+ .menu-block{
+    width:20%
+ }
+ .board-container{
+    width:80%
+ }
+ 
